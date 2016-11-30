@@ -8,5 +8,5 @@ manage.py
 requirements.txt
 install-deps.sh"
 
-scp -r -i /etc/simple_travel.pem $files ubuntu@54.210.176.248:app
+scp -r -i ~/.ssh/SimpleTravel.pem $files ubuntu@35.165.16.100:app
 

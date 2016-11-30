@@ -2,5 +2,5 @@
 
 django
 djangorestframework
-libmysql
+# libmysql -- removed due to deployment issue on new instance 
 MySQL-python
